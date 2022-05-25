@@ -4,7 +4,9 @@ Napisane zadania w ramach zajęć pt Zaawansowane Programowanie Aplikacji Mobiln
 
 
 
-Lista 1 --> 1.1 Gra FizzBuzz (sprawdzenie podzielności liczb przez 3/5)
+Lista 1 --> 
+
+            1.1 Gra FizzBuzz (sprawdzenie podzielności liczb przez 3/5)
 
             1.2 Łańcuch znaków (statystyki)
            
