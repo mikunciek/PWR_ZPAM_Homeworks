@@ -10,4 +10,6 @@ Lista 1 -->
 
             1.2 Łańcuch znaków (statystyki)
            
-Lista 2 --> Obliczanie pól figur (dziedziczenie po klasach)
+Lista 2 --> 
+
+            Obliczanie pól figur (dziedziczenie po klasach)
